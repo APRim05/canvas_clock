@@ -1,0 +1,22 @@
+h1 {
+	font-family: "copperplate gothic";
+	color: "#123";
+	text-align: center;
+	font-weight: bold;
+}
+p {
+	font-family: "freestyle script";
+	color: "#123";
+	text-align: center;
+	font-size: 26px;
+	font-weight: bold;
+	}
+#canvas {
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin:auto;
+}
+
