@@ -1,7 +1,9 @@
 # canvas_clock
+
 A clock I made using the HTML "canvas" element.
 
 Steps:
+
 1. Download both CSS and HTML files.
 
 2. Place them in the same folder.
